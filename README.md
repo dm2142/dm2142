@@ -8,7 +8,7 @@
 - 💻 I normally use *c/c++* and *python* for my projects.
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd5NTAyMXl4bXlvYnpoN3hxNm1pMmo3YmhwbzYyZjk0bmk2bWxnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd5NTAyMXl4bXlvYnpoN3hxNm1pMmo3YmhwbzYyZjk0bmk2bWxnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="250" />
 </p>
 <!---
 dm2142/dm2142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
